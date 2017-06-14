@@ -7,6 +7,6 @@ Please like, comment, subscribe and share, never forget to share.
 
 To use the .belnd file, 
 1. open it it blender, 
-2. press 'p' to start the animation, 
-3. press 's' top speed up the orbit, 
+2. press 'p' to start the animation, or select Game->Start Game Engine from the top tool bar,
+3. press 's' to speed up the orbit, 
 4. press 'x' to slow it down again
