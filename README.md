@@ -16,9 +16,11 @@ To use the .blend file,
 ## Credit
 
 If you use this model please credit with link to this repository
+
 https://github.com/Sean-Bradley/Dzhanibekov-Effect-with-EGM96-Earth-Model-Blender-Simulation
-and/or 
-a link to the YouTube Video
+
+and/or a link to the YouTube Video
+
 https://youtu.be/J-l-SbCFhL0
 
 Please like, comment, subscribe and share, never forget to share.
